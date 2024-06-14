@@ -1,0 +1,47 @@
+.container{
+    width: 100%;
+    display: flex ;
+    flex-wrap: wrap ;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 10px 30px;
+  }
+.container .box {
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 20px;
+    background: #e8e8e8;
+    padding: 10px 20px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+.container .box .contant {
+  align-items: center;
+  max-width: 100%;
+}
+.container .box .contant .img-box img {
+  width: 250px;
+  height: 250px;
+}
+.container .box .contant .detail .info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.container .box .contant .detail .info h3 {
+  color: red;
+  text-transform: uppercase;
+  font-weight: 200;
+}
+
+.container .box .contant .detail button {
+  margin-top: 30px;
+  margin-left: 30%;
+  padding: 10px 30px;
+  border: none;
+  outline: none;
+  background: cyan;
+  color: white;
+  cursor: pointer;
+}
