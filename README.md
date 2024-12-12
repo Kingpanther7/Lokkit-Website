@@ -1,5 +1,3 @@
-Visit this website : https://rawcdn.githack.com/Kingpanther7/Lokkit-Website/f6e34d2ab8c2a32f88e031f26f99707d5d5dc8b7/src/App.js
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
